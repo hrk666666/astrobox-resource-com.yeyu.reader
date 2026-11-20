@@ -1,0 +1,113 @@
+{
+  "downloads": {
+    "xmb10": {
+      "file_name": "downloads/页屿手环端-小米手环10-11.rpk",
+      "sha256": "4f69148907743c02ac859b81b45e2e48c7b9a1afdf6d325025d633fcff7c7d85",
+      "version": "V26.6.2.o66",
+      "versionCode": 260602
+    },
+    "xmb10nfc": {
+      "file_name": "downloads/页屿手环端-小米手环10-11.rpk",
+      "sha256": "4f69148907743c02ac859b81b45e2e48c7b9a1afdf6d325025d633fcff7c7d85",
+      "version": "V26.6.2.o66",
+      "versionCode": 260602
+    },
+    "xmb10p": {
+      "file_name": "downloads/页屿手环端-小米手环10Pro.rpk",
+      "sha256": "6af786673b3dd916cd49e4345b025ee5aab19637173e6f2f91bbde9658d4f028",
+      "version": "V26.6.2.p67",
+      "versionCode": 260602
+    },
+    "xmb9": {
+      "file_name": "downloads/页屿手环端-小米手环9.rpk",
+      "sha256": "932826c727e1521bd28707de2050ea70efae8fc36193689614aa4e8f83725032",
+      "version": "V26.6.2.band",
+      "versionCode": 260602
+    },
+    "xmb9p": {
+      "file_name": "downloads/页屿手环端-小米手环9Pro-8Pro.rpk",
+      "sha256": "cdb992db8605c291151685e1c0b5395c25668a2cc1f4ac1b9173747879c0f739",
+      "version": "V26.6.2.n67",
+      "versionCode": 260602
+    },
+    "xmrw5": {
+      "file_name": "downloads/页屿手环端-REDMIWatch5-6.rpk",
+      "sha256": "59be7266af3f45554f471396d05ce63060f2e8b3b640ba6189bdcda63a86f789",
+      "version": "V26.6.2.rw",
+      "versionCode": 260602
+    },
+    "xmrw5xring": {
+      "file_name": "downloads/页屿手环端-REDMIWatch5-6.rpk",
+      "sha256": "59be7266af3f45554f471396d05ce63060f2e8b3b640ba6189bdcda63a86f789",
+      "version": "V26.6.2.rw",
+      "versionCode": 260602
+    },
+    "xmrw6": {
+      "file_name": "downloads/页屿手环端-REDMIWatch5-6.rpk",
+      "sha256": "59be7266af3f45554f471396d05ce63060f2e8b3b640ba6189bdcda63a86f789",
+      "version": "V26.6.2.rw",
+      "versionCode": 260602
+    },
+    "xmws3": {
+      "file_name": "downloads/页屿手环端-小米手表S5-S4-S4Sport-S3.rpk",
+      "sha256": "e3dcf6c3601b4040af4370d9e477b65f162609dd9b76b54d08e8f7f8e5f66290",
+      "version": "V26.6.2.o62",
+      "versionCode": 260602
+    },
+    "xmws4": {
+      "file_name": "downloads/页屿手环端-小米手表S5-S4-S4Sport-S3.rpk",
+      "sha256": "e3dcf6c3601b4040af4370d9e477b65f162609dd9b76b54d08e8f7f8e5f66290",
+      "version": "V26.6.2.o62",
+      "versionCode": 260602
+    },
+    "xmws441": {
+      "file_name": "downloads/页屿手环端-小米手表S5-S4-S4Sport-S3.rpk",
+      "sha256": "e3dcf6c3601b4040af4370d9e477b65f162609dd9b76b54d08e8f7f8e5f66290",
+      "version": "V26.6.2.o62",
+      "versionCode": 260602
+    },
+    "xmws4xring": {
+      "file_name": "downloads/页屿手环端-小米手表S5-S4-S4Sport-S3.rpk",
+      "sha256": "e3dcf6c3601b4040af4370d9e477b65f162609dd9b76b54d08e8f7f8e5f66290",
+      "version": "V26.6.2.o62",
+      "versionCode": 260602
+    },
+    "xmws5": {
+      "file_name": "downloads/页屿手环端-小米手表S5-S4-S4Sport-S3.rpk",
+      "sha256": "e3dcf6c3601b4040af4370d9e477b65f162609dd9b76b54d08e8f7f8e5f66290",
+      "version": "V26.6.2.o62",
+      "versionCode": 260602
+    }
+  },
+  "ext": {},
+  "item": {
+    "author": [
+      {
+        "bindABAccount": true,
+        "name": "hrk_"
+      }
+    ],
+    "cover": "media/cover.webp",
+    "description": "页屿 · Yeyu Reader —— 让手环也能看书的开源阅读器​\n手机搜书、传书到小米手环 / 手表，抬腕就能接着看；阅读进度双端自动同步。\n免费 · 开源 · 无广告 · 无需注册。\n这是什么​\n「页屿」（Yeyu Reader）是一款 Android 阅读器，最大特点是手环传书： 把书直接传进小米手环、REDMI Watch、小米手表的本地存储里， 出门跑步、上课、睡前不想带手机，抬腕就能接着看。 手机与手环之间的通信协议已完整开源，传输实时显示进度、支持断线续传，同步的书会自动出现在双端书架。\n强在哪里（给不折腾的朋友）​\n​\n手环就是一台小 Kindle。书存在手环里，脱离手机也能看，跑步、排队、熄灯后抬腕就翻页。\n阅读进度自动双向同步。手机看到第 3 章，手环打开就在第 3 章；手环上看到第 5 章，回到手机进度也在第 5 章。同步过的书还会自动加入双方书架，不怕找不到。\n内置在线书源。想看什么直接搜，搜索、阅读、追更一站式，不用自己到处找文件。\n自己的文件也能传。EPUB、TXT 导入书架后同样可以传到手环。\n传输省心。实时显示速度与章节进度，自动重试、断线续传、边下边传，整本多选一次排队。\n一台手机管六款设备。小米手环 9 / 10 / 11 系列、手环 8 Pro / 9 Pro / 10 Pro、REDMI Watch 5 / 6、小米手表 S3 / S4 / S4 Sport / S5 均有对应手环端。\n免费、开源、无广告。没有账号系统，阅读数据保存在本地，代码全部开源可审查。\n\n​\n功能一览​\n​\n在线书源：搜索 / 阅读 / 追更 / 书架管理\n本地导入：EPUB（含封面与元数据）、TXT\n手环传书：多选书目、增量传书（只补缺的章节）、实时进度、速度显示、取消与自动重试\n双端同步：阅读进度、阅读时长、书签双向同步；同步的书双端自动上书架\n阅读体验：Material Design 3 界面、立体书架、深色模式、听书",
+    "icon": "media/icon.webp",
+    "id": "com.yeyu.reader",
+    "name": "阅屿电子书",
+    "preview": [
+      "media/preview-1.webp",
+      "media/preview-2.webp"
+    ],
+    "restype": "quick_app"
+  },
+  "links": [
+    {
+      "icon": "Link",
+      "title": "下载手机端",
+      "url": "https://pan.quark.cn/s/10d1e8548b36"
+    },
+    {
+      "icon": "Link",
+      "title": "米坛社区",
+      "url": "https://www.bandbbs.cn/resources/9202/"
+    }
+  ]
+}
