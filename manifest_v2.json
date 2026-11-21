@@ -84,7 +84,7 @@
     "author": [
       {
         "bindABAccount": true,
-        "name": "hrk_"
+        "name": "hrk_a"
       }
     ],
     "cover": "media/cover.webp",
@@ -94,7 +94,9 @@
     "name": "阅屿电子书",
     "preview": [
       "media/preview-1.webp",
-      "media/preview-2.webp"
+      "media/preview-2.webp",
+      "media/preview-3.webp",
+      "media/preview-4.webp"
     ],
     "restype": "quick_app"
   },
